@@ -1,5 +1,5 @@
-/logs/*
-!logs/.gitkeep
+logs/*
+plugins/
 
 datalake/raw/*
 !datalake/raw/.gitkeep
