@@ -1,0 +1,10 @@
+order_id,order_date,store_id,store_name,barangay,city,product_id,product_name,category,quantity,unit_price
+ORD-1009,2026-10-05,S004,Myst Store,Brgy. HighHills,Mandaluyong City,P007,Echo Shard,Shards,2,78.00
+ORD-1010,2026-10-06,S004,Myst Store,Brgy. HighHills,Mandaluyong City,P007,Echo Shard,Shards,4,78.00
+ORD-1011,2026-10-06,S004,Myst Store,Brgy. HighHills,Mandaluyong City,P007,Echo Shard,Shards,3,78.00
+ORD-1012,2026-10-07,S004,Myst Store,Brgy. HighHills,Mandaluyong City,P007,Echo Shard,Shards,5,78.00
+ORD-1013,2026-10-05,S004,Myst Store,Brgy. HighHills,Mandaluyong City,P007,Echo Shard,Shards,1,
+ORD-1014,2026-10-05,S004,Myst Store,Brgy. HighHills,Mandaluyong City,P007,Echo Shard,Shards,2,78.00
+ORD-1016,2026-10-05,S004,Myst Store,Brgy. HighHills,Mandaluyong City,P007,Echo Shard,Shards,3,78.00
+ORD-1016,2026-10-05,S004,Myst Store,Brgy. HighHills,Mandaluyong City,P007,Echo Shard,Shards,3,78.00
+ORD-1017,2026-10-13,S004,Myst Store,Brgy. HighHills,Mandaluyong City,P007,Echo Shard,Shards,3,78.00
